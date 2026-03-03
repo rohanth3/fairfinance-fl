@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+streamlit-option-menu
+streamlit-lottie
+numpy
+requests
+torch
+scikit-learn
+PyYAML
+cryptography

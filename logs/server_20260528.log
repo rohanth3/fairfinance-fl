@@ -1,0 +1,24 @@
+2026-05-28 01:32:55 - server - INFO - Server initialized with advanced features
+2026-05-28 01:32:55 - server - INFO - Server started on 0.0.0.0:8085
+2026-05-28 01:33:20 - server - DEBUG - Client connection from ('127.0.0.1', 54221)
+2026-05-28 01:33:20 - server - INFO - New client connected from ('127.0.0.1', 54221)
+2026-05-28 01:34:15 - server - DEBUG - Client connection from ('127.0.0.1', 50077)
+2026-05-28 01:34:15 - server - INFO - New client connected from ('127.0.0.1', 50077)
+2026-05-28 01:34:15 - server - DEBUG - Client connection from ('127.0.0.1', 50078)
+2026-05-28 01:34:15 - server - DEBUG - Client connection from ('127.0.0.1', 50079)
+2026-05-28 01:34:15 - server - INFO - New client connected from ('127.0.0.1', 50078)
+2026-05-28 01:34:15 - server - INFO - New client connected from ('127.0.0.1', 50079)
+2026-05-28 01:34:45 - server - WARNING - Socket timeout waiting for client message
+2026-05-28 01:34:45 - server - WARNING - Socket timeout waiting for client message
+2026-05-28 01:34:45 - server - WARNING - Socket timeout waiting for client message
+2026-05-28 01:42:35 - server - INFO - Server initialized with advanced features
+2026-05-28 01:42:35 - server - INFO - Server started on 0.0.0.0:8085
+2026-05-28 01:42:57 - server - DEBUG - Client connection from ('127.0.0.1', 61959)
+2026-05-28 01:42:57 - server - INFO - New client connected from ('127.0.0.1', 61959)
+2026-05-28 01:43:12 - server - DEBUG - Client connection from ('127.0.0.1', 61962)
+2026-05-28 01:43:12 - server - INFO - New client connected from ('127.0.0.1', 61962)
+2026-05-28 01:43:12 - server - DEBUG - Client connection from ('127.0.0.1', 61963)
+2026-05-28 01:43:12 - server - INFO - New client connected from ('127.0.0.1', 61963)
+2026-05-28 01:43:12 - server - DEBUG - Client connection from ('127.0.0.1', 61964)
+2026-05-28 01:43:12 - server - INFO - New client connected from ('127.0.0.1', 61964)
+2026-05-28 02:07:19 - server - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
